@@ -14,6 +14,5 @@ Prices may vary depending on the clinic, region and your health condi
 | NeisVac-C | $98 | > 6-8  months | https://www.medsafe.govt.nz/profs/Datasheet/n/NeisVacCinj.pdf |
 | Bexsero | $150 | TBC  | https://www.immune.org.nz/vaccines/available-vaccines/bexsero https://www.meningitis.org.nz/prevention |
 | Boostrix | $85 (Free for ACC) | Up to 10 years | https://www.medsafe.govt.nz/profs/Datasheet/n/NeisVacCinj.pdf |
-| Boostrix | $85 | Up to 10 years | https://www.medsafe.govt.nz/profs/Datasheet/n/NeisVacCinj.pdf |
 | Hep B | $215 | Lifelong | https://www.immune.org.nz/vaccines/available-vaccines/engerix-b |
 | Zostavax | $200 | Lifelong | https://www.immune.org.nz/vaccines/available-vaccines/zostavax | 
